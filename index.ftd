@@ -135,7 +135,7 @@ I’m interested in freelance opportunities. However, if you have other request 
 ;;----------------------------Change the Logo with your Logo-------------------------------------------------------
 ;;-----------------------------------------------------------------------------------------------------------------
 
--- navfooter.footer: Anushka Kaole
+-- navfooter.footer: Anushka Kaole!
 logo: $assets.files.images.logo.svg
 discordlink: https://www.discord.com/anushka_kaole
 githublink: https://www.github.com/anushka-kaole29
