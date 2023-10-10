@@ -35,8 +35,8 @@ height: hug-content
 ;;-------Change the logo and add your own logo, while changing remember to change the path-------------------------
 ;;-----------------------------------------------------------------------------------------------------------------
 
--- navheader.navbar: Elias
-logo: $assets.files.images.logo.svg
+-- navheader.navbar: Anushka Kaole
+logo: $assets.files.images.abc.png
 homelink: <homepage_link>
 aboutlink: <aboutpage_link>
 contactmelink: <contact_link>
@@ -58,7 +58,7 @@ worklink: <work_link>
 ;;----------------------------Change the Body with your Content----------------------------------------------------
 ;;-----------------------------------------------------------------------------------------------------------------
 
--- main.body: Elias is a Web Designer and Front-End Developer
+-- main.body: Anushka Kaole is a Web Designer and Front-End Developer
 link: https://www.candely.com/
 image: $assets.files.images.Image2.png
 label: Currently working on portfolio
@@ -109,7 +109,7 @@ other: HTML CSS EJS SCSS REST Jinja
 tools: VSCode Neovim Linux Figma XFCE Arch Git Font Awesome
 frameworks: React Vue Disnake Discord.js Flask Express.js
 
--- me.aboutme: Hello, i’m Elias!
+-- me.aboutme: Hello, i’m Anushka Kaole!
 link: www.readmore.com
 image: $assets.files.images.Image.png
 
@@ -135,7 +135,7 @@ I’m interested in freelance opportunities. However, if you have other request 
 ;;----------------------------Change the Logo with your Logo-------------------------------------------------------
 ;;-----------------------------------------------------------------------------------------------------------------
 
--- navfooter.footer: Elias
+-- navfooter.footer: Anushka Kaole
 logo: $assets.files.images.logo.svg
 discordlink: https://www.discord.com/
 githublink: https://www.github.com/
