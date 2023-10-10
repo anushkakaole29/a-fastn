@@ -20,9 +20,9 @@ background.solid: #1E1E1E
 ;;-----------------------------------------------------------------------------------------------------------------
 
 -- leftsidebar.panel:
-link1: https://www.discord.com/
-link2: https://www.linkedin.com/
-link3: https://www.github.com/
+link1: https://www.discord.com/anushka_kaole
+link2: https:www.linkedin.com/in/anushka-kaole29
+link3: https:https://github.com/anushkakaole29
 
 -- ftd.column:
 background.solid: #282C33
@@ -122,9 +122,9 @@ Transforming my creativity and knowledge into a websites has been my passion for
 ;;-----------------------------------------------------------------------------------------------------------------
 
 -- contactinfo.contact:
-discordlink: https://www.discord.com/
-githublink: https://www.github.com/
-linkedinlink: https://www.linkedin.com/
+discordlink: https://www.discord.com/anushka_kaole
+githublink: https://www.github.com/anushka-kaole29
+linkedinlink: https://www.linkedin.com/anushkakaole29
 
 I’m interested in freelance opportunities. However, if you have other request or question, don’t hesitate to contact me.
 
@@ -137,9 +137,9 @@ I’m interested in freelance opportunities. However, if you have other request 
 
 -- navfooter.footer: Anushka Kaole
 logo: $assets.files.images.logo.svg
-discordlink: https://www.discord.com/
-githublink: https://www.github.com/
-linkedinlink: https://www.linkedin.com/
+discordlink: https://www.discord.com/anushka_kaole
+githublink: https://www.github.com/anushka-kaole29
+linkedinlink: https://www.linkedin.com/anushkakaole29
 
 Web designer and front-end developer
 
